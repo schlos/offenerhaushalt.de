@@ -16,7 +16,7 @@ email: info@okfn.de
 description: ''
 
 # the subpath of your site, e.g. /blog
-baseurl: '/offenerhaushalt.de'
+baseurl: ''
 
 # the base hostname & protocol for your site, e.g. http://example.com
 url: 'https://schlos.github.io'
